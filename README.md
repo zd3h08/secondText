@@ -9,7 +9,7 @@
 - 基本記述
 
 *強調*
-**強い強調*
+**強い強調**
 `$hoge = 1`
 
 > "引用本文引用本文引用本文引用本文
@@ -30,7 +30,7 @@
 <http://example.com>
 <example@example.com>
 
-[Yahoo][http://yahoo.co.jp]
+[Yahoo](http://yahoo.co.jp)
 
 |見出し1|見出し2|見出し3|
 |:---|:---:|---:|
